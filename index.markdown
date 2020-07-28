@@ -95,7 +95,9 @@ background: '/images/header.jpg'
               </button>
             </div>
             <div class="modal-body text-center">
-              <iframe class="mx-auto" src="https://docs.google.com/forms/d/e/1FAIpQLSc-bbD-72PD1ySlsyeuDgVufoyIcKUPkJ19ieMR4gI-Q22dNQ/viewform?embedded=true" width="640" height="900" frameborder="0" marginheight="0" marginwidth="0" align="center">Loading…</iframe>
+              <div class="resp-container">
+                <iframe class="mx-auto resp-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSc-bbD-72PD1ySlsyeuDgVufoyIcKUPkJ19ieMR4gI-Q22dNQ/viewform?embedded=true" height="900" frameborder="0" marginheight="0" marginwidth="0" align="center">Loading…</iframe>
+                </div>
             </div>
           </div>
         </div>
