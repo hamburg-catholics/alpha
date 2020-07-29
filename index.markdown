@@ -4,9 +4,9 @@ background: '/images/header.jpg'
 ---
 <div class="container">
   <h2 class="post-title">Come...<br>let's talk about it!'</h2>
-  <p>From 6th September 2020 - 1st October 2020<br>
-    Information evening:<br>
-    6th September 2020, 7:30pm - 9:30pm<br></p>
+  <p>From 13th August 2020 - 8th October 2020<br>
+    Information evening: <br>
+    13th August 2020, 7:30pm - 9:00pm<br></p>
   </div>
   <hr>
   <div class="container">
@@ -17,7 +17,7 @@ background: '/images/header.jpg'
       <div class="col-lg small-text">
         Alpha Online is a series of group conversations that explore life, spirituality and faith through a Christian lens. We create a non-judgmental and open environment where it’s easy for anyone who is an atheist, skeptic or just curious about faith to explore questions of life with new friends.
         <br><br>
-        If you want to know more we'd love to invite you to try Session 1 of Alpha Online. It will be a fun evening where you can find out if Alpha is for you. We’ll be running Alpha in July and August - so find a time that works and join us!
+        If you want to know more we'd love to invite you to try Session 1 of Alpha Online. It will be a fun evening where you can find out if Alpha is for you. We’ll be running Alpha in August!
       </div>
     </div>
   </div>
@@ -33,8 +33,7 @@ background: '/images/header.jpg'
             WELCOME
           </div>  
           <div class="col-lg">
-            7:30-7:40PM* INTRODUCTIONS
-            Welcome and meet some new people
+            INTRODUCTION
           </div>
         </div>
         <div class="row pt-4">
@@ -42,8 +41,8 @@ background: '/images/header.jpg'
             LISTEN
           </div>  
           <div class="col-lg">
-            7:40-8:10PM* SMALL TALKS WITH BIG IDEAS
-            Each Alpha evening features a 25 minute film. Designed to inspire more questions than provide answers, these short films explore the big issues around faith and unpack the basics of Christianity, addressing questions such as Who is Jesus? and How can we have faith?  Watch the film each week from the comfort of your home through the link we will send you. Easy!
+            SMALL TALKS WITH BIG IDEAS
+            Each Alpha evening features a talk on a particular topic. Designed to inspire more questions than provide answers, these short talks explore the big issues around faith and unpack the basics of Christianity, addressing questions such as Who is Jesus? and How can we have faith?  Listen to the talk each week from the comfort of your home. Easy!
           </div>
         </div>
         <div class="row pt-4">
@@ -51,17 +50,8 @@ background: '/images/header.jpg'
             DISCUSS
           </div>  
           <div class="col-lg">
-            8:10PM-8:45PM* DISCUSS THE QUESTIONS THAT MATTER TO YOU 
-            The entire night builds towards this peak experience: after the film you will be put into a virtual breakout room and your hosts will lead conversations in small groups where you can share your thoughts about faith and life and hear from others in your group. You can feel free to say whatever you like or as little as you like, it's up to you.  
-          </div>
-        </div>
-        <div class="row pt-4">
-          <div class="col col-sm-3">
-            SOCIALIZE
-          </div>  
-          <div class="col-lg">
-            8:45PM-9:30PM* HANG OUT IN THE DIGITAL BAR
-            Relax, pour yourself a drink and spend some time getting to know the other guests in the Alpha digital bar. No tipping necessary…
+            DISCUSS THE QUESTIONS THAT MATTER TO YOU 
+            The entire night builds towards this peak experience: after the talk you will be put into a virtual breakout room and your hosts will lead conversations in small groups where you can share your thoughts about faith and life and hear from others in your group. You can feel free to say whatever you like or as little as you like, it's up to you.  
           </div>
         </div>
       </div>
@@ -72,9 +62,10 @@ background: '/images/header.jpg'
           <h1>DATES & TIMES</h1>
         </div>
         <div class="col-lg small-text">
-            Join us for Alpha online by clicking the sign up button below! The Alpha course runs over 8 weeks covering different topics and ideas. 
-            Sign up below and we will email you a link to the Zoom meeting.
-            Session 1: Introduction to Alpha
+            <h5>13th August 2020 - 8th October 2020</h5><br>
+            Join us for Alpha online by clicking the sign up button below! The Alpha course runs over 10 weeks and one Saturday covering different topics and ideas. 
+            Sign up below and we will email you a link to the Zoom meeting.<br>
+            Session 1: Is there more to Life than this?<br><br>            
         </div>
       </div>
     </div>
