@@ -5,6 +5,7 @@ background: '/images/header.jpg'
 <div class="container">
   <h2 class="post-title">Come...<br>let's talk about it!'</h2>
   <p>From 13th August 2020 - 8th October 2020<br>
+    Online, every Thursday, 7:30pm - 9:00pm<br><br>
     Information evening: <br>
     13th August 2020, 7:30pm - 9:00pm<br></p>
   </div>
@@ -63,8 +64,8 @@ background: '/images/header.jpg'
         </div>
         <div class="col-lg small-text">
             <h5>13th August 2020 - 8th October 2020</h5><br>
-            Join us for Alpha online by clicking the sign up button below! The Alpha course runs over 10 weeks and one Saturday covering different topics and ideas. 
-            Sign up below and we will email you a link to the Zoom meeting.<br>
+            Join us for Alpha online by clicking the sign up button below! The Alpha course runs over 10 weeks, every Thursday, and one Saturday covering different topics and ideas. 
+            <br>Sign up below and we will email you a link to the Zoom meeting.<br>
             Session 1: Is there more to Life than this?<br><br>            
         </div>
       </div>
