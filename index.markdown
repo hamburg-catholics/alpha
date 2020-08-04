@@ -22,7 +22,6 @@ background: '/images/header.jpg'
       </div>
     </div>
   </div>
-
   <div class="container pt-5">
     <div class="row">
       <div class="col col-sm-4">
@@ -75,7 +74,6 @@ background: '/images/header.jpg'
       <button type="button" class="btn btn-primary mt-5" data-toggle="modal" data-target="#exampleModal">
         Sign Up
       </button>
-
       <!-- Modal -->
       <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
         <div class="modal-dialog modal-lg mx-auto" role="document">

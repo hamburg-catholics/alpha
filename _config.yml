@@ -24,7 +24,7 @@ description: >- # Is there more to life than thus?
   Is there more to life than this?  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-
+google_analytics: UA-174490331-2
 # Build settings
 plugins:
   - jekyll-feed
