@@ -31,6 +31,15 @@ plugins:
 
 markdown: kramdown
 
+#List of Pages with details
+page_list:
+  - page:
+      name: Home
+      url: /index
+  - page:
+      name: Testimonies
+      url: /testimonies
+
 sass:
   sass_dir: _sass
   style: compressed
