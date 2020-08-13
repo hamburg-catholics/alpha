@@ -4,9 +4,11 @@ background: '/images/header.jpg'
 ---
 <div class="container">
   <h2 class="post-title">Come...<br>let's talk about it!'</h2>
-  <p>From 13th August 2020 - 8th October 2020<br>
-    Online, every Thursday, 7:30pm - 9:00pm<br><br>
-    Information evening: <br>
+  <p>From 13th August 2020 - 15th October 2020<br>
+    Online, every Thursday, 7:30pm - 9:00pm<br>
+    In-person Holy Spirit Day on 19th September<br>
+    <br>
+    <b>Information evening</b>: <br>
     13th August 2020, 7:30pm - 9:00pm<br></p>
   </div>
   <hr>
